@@ -10,11 +10,7 @@ export default function App() {
         <TouchableOpacity>
           <Text style={styles.btnText}>Work</Text>
         </TouchableOpacity>
-        <TouchableWithoutFeedback 
-          // underlayColor="red"
-          // activeOpacity={0.5}
-          // onPress={() => console.log("pressed")}
-        >
+        <TouchableWithoutFeedback>
           <Text style={styles.btnText}>Travel</Text>
         </TouchableWithoutFeedback>
       </View>
