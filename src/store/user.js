@@ -6,7 +6,7 @@ const init_data = {
   name : "",
   love : 3,
   hate : 2,
-  store : 0,
+  score : 0,
   lock : 1,
 }
  //라운드별 기록
